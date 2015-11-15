@@ -8,7 +8,7 @@ outlined by the Log Below
 ## Log
 
 | Problem | Solvers | Algorithm | Result |
-----------------------------------------------------
+|---------|---------|-----------|--------|
 | PostfixEvaluation | Yicheng + Dennis | Stack Interperter | Succeess |
 | ConfusingCollinearConstellation | Dennis + Max | TODO | Succeess |
 | Podracing | All | Depth First Search | Timeout |
