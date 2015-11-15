@@ -12,7 +12,7 @@ outlined by the Log Below
 | PostfixEvaluation | Yicheng + Dennis | Stack Interperter | Succeess |
 | ConfusingCollinearConstellation | Dennis + Max | Half-Ass | Succeess |
 | Podracing | All | Depth First Search | Timeout |
-| AsteroidMining | Max | TODO | Succeess |
+| AsteroidMining | Max | Depth First Search | Succeess |
 | SpaceResources | Matthew + Dennis | Hashtable | Succeess |
 | StarTemperatures | Yicheng + Max | Heapsort | Timeout |
 | SafeSpacewalks | Max | Bucket Sort | Succeess |
