@@ -15,7 +15,7 @@ outlined by the Log Below
 | AsteroidMining | Max | TODO | Succeess |
 | SpaceResources | Matthew + Dennis | Hashtable | Succeess |
 | StarTemperatures | Yicheng + Max | Heapsort | Timeout |
-| SafeSpacewalks | Max | TODO | Succeess |
+| SafeSpacewalks | Max | Bucket Sort | Succeess |
 | TimeTravel | Max + Dennis + Yicheng | Dijkstra | Did Not Write |
 | FirstContact | Matthew | Math | Succeess |
 | CommanderConundrum | None | None | Did Not Write |
