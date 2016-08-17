@@ -10,7 +10,7 @@ outlined by the Log Below
 | Problem | Solvers | Algorithm | Result |
 |---------|---------|-----------|--------|
 | PostfixEvaluation | Yicheng + Dennis | Stack Interperter | Succeess |
-| ConfusingCollinearConstellation | Dennis + Max | Half-Ass | Succeess |
+| ConfusingCollinearConstellation | Dennis + Max | Guessing | Succeess |
 | Podracing | All | Depth First Search | Timeout |
 | AsteroidMining | Max | Depth First Search | Succeess |
 | SpaceResources | Matthew + Dennis | Hashtable | Succeess |
